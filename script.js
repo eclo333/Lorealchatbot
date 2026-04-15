@@ -7,7 +7,7 @@ const quickActions = document.getElementById("quickActions");
 const latestQuestion = document.getElementById("latestQuestion");
 
 // Paste your deployed Cloudflare Worker URL here
-const CLOUDFLARE_WORKER_URL = "https://lorealchatbot.ttrrippyy.workers.dev";
+const CLOUDFLARE_WORKER_URL = "https://lorealchatbot1.ttrrippyy.workers.dev/";
 
 const PRODUCT_CATALOG = [
   {
